@@ -1,8 +1,8 @@
 {
-  "name": "dan_ghie_store",
+  "name": "football-wear",
   "type": "module",
   "version": "1.0.0",
-  "description": "mariposaweb online store",
+  "description": "football wears online store",
   "main": "index.js",
   "scripts": {
     "build": "cd client && npm install && npm run build",
